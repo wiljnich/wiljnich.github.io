@@ -1,3 +1,3 @@
 ## Welcome to my GitHub Page repository
 
-Visit my personal webpage: [editor on GitHub](https://wiljnich.github.io)
+Visit my personal webpage: [wiljnich.github.io](https://wiljnich.github.io)
